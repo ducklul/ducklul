@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey!+I'm+ducklul;A+Passionate+US+Front+End+Developer!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BB3F&center=true&random=false&width=435&lines=Hey+I'm+ducklul!;A+Passionate+US+Backend+Developer!" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducklul&label=Profile%20views&color=0e75b6&style=flat" alt="ducklul" /> </p>
 
