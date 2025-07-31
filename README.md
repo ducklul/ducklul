@@ -8,7 +8,7 @@
 
 - 📝 My Website: [https://ducklul.xyz](https://ducklul.xyz)
 
-- 📫 How to reach me: **contact@ducklul.dev**
+- 📫 How to reach me: **https://ducklul.xyz/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
