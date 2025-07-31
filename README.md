@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducklul&label=Profile%20views&color=0e75b6&style=flat" alt="ducklul" /> </p>
 
-- 🔭 I’m currently working on: [ducklul.dev](https://discord.gg/ducklul)
+- 🔭 I’m currently working on: [ducklul.xyz](https://discord.gg/ducklul)
 
 - 🌱 I’m currently learning: **JavaScript**
 
-- 📝 My Website: [https://ducklul.dev](https://ducklul.dev)
+- 📝 My Website: [https://ducklul.xyz](https://ducklul.xyz)
 
 - 📫 How to reach me: **contact@ducklul.dev**
 
