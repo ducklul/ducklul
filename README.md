@@ -18,4 +18,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> (https://skillicons.dev/icons?i=js,html,css,py,cpp)](https://ducklul.dev)
+<p align="left"> [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp)](https://ducklul.dev)
