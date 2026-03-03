@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducklul&label=Profile%20views&color=0e75b6&style=flat" alt="ducklul" /> </p>
 
-- 🔭 I’m currently working on: [ducklul.xyz](https://discord.gg/ducklul)
+- 🔭 I’m currently working on: <span style="color: #27DAF5;">FRC Robotic's Robot</span>.
 
-- 🌱 I’m currently learning: **JavaScript**
+- 🌱 I’m currently learning: <span style="color: #F5CC27;">C++</span>.
 
 - 📝 My Website: [https://ducklul.xyz](https://ducklul.xyz)
 
